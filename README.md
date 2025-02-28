@@ -58,3 +58,7 @@ C$50 Finance is a web application that allows users to "buy" and "sell" stocks u
 
 5. **Add Cash**:
    - Visit `/addsaldo` to add cash to your account.
+
+
+Developed by Matheus Godinho Magalhães as part of Harvard University's CS50 course.
+
